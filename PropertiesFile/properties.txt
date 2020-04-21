@@ -1,0 +1,2 @@
+foo.email=swimcoach@spring.edu
+foo.team=Swimming Team
