@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20%26%20Hibernate%20for%20Beginners%20%28includes%20Spring%20Boot%29/1.%20Course%20Introduction/1.%20Introduction.mp4</location>
+			<duration>140608</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20%26%20Hibernate%20for%20Beginners%20%28includes%20Spring%20Boot%29/1.%20Course%20Introduction/2.%20Practice%20Activities%20-%20Overview.mp4</location>
+			<duration>65259</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20%26%20Hibernate%20for%20Beginners%20%28includes%20Spring%20Boot%29/1.%20Course%20Introduction/3.%20How%20To%20Take%20This%20Course%20and%20How%20To%20Get%20Help.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20%26%20Hibernate%20for%20Beginners%20%28includes%20Spring%20Boot%29/1.%20Course%20Introduction/4.%20Downloading%20the%20Source%20Code%20and%20PDF%20Files.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20%26%20Hibernate%20for%20Beginners%20%28includes%20Spring%20Boot%29/1.%20Course%20Introduction/5.%20Closed%20Captions%20and%20Subtitles%20Available%20for%20English.html</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/2.%20Spring%20Overview</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/3.%20Setting%20Up%20Your%20Development%20Environment</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/10.%20Spring%20Configuration%20with%20Java%20Code</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/11.%20Spring%20MVC%20-%20Building%20Spring%20Web%20Apps</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/12.%20Spring%20MVC%20-%20Creating%20Controllers%20and%20Views</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/13.%20Spring%20MVC%20-%20Request%20Params%20and%20Request%20Mappings</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/14.%20Spring%20MVC%20-%20Form%20Tags%20and%20Data%20Binding</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/15.%20Spring%20MVC%20Form%20Validation%20-%20Applying%20Built-In%20Validation%20Rules</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/16.%20Spring%20MVC%20Form%20Validation%20-%20Validating%20Number%20Ranges%20and%20Regular%20Expressions</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/17.%20Spring%20MVC%20Form%20Validation%20-%20Creating%20Custom%20Validation%20Rules</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/18.%20Introduction%20to%20Hibernate</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/19.%20Setting%20Up%20Hibernate%20Development%20Environment</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/20.%20Hibernate%20Configuration%20with%20Annotations</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/21.%20Hibernate%20CRUD%20Features%20Create,%20Read,%20Update%20and%20Delete</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/22.%20Hibernate%20Advanced%20Mappings</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/23.%20Hibernate%20Advanced%20Mappings%20-%20@OneToOne</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/24.%20Hibernate%20Advanced%20Mappings%20-%20@OneToMany</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/25.%20Hibernate%20Advanced%20Mappings%20-%20Eager%20vs%20Lazy%20Loading</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/26.%20Hibernate%20Advanced%20Mappings%20-%20@OneToMany%20-%20Unidirectional</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/27.%20Hibernate%20Advanced%20Mappings%20-%20@ManyToMany</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/28.%20Build%20a%20Database%20Web%20App%20-%20Spring%20MVC%20and%20Hibernate%20Project%20-%20Part%201</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/29.%20Build%20a%20Database%20Web%20App%20-%20Spring%20MVC%20and%20Hibernate%20Project%20-%20Part%202</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/30.%20Build%20a%20Database%20Web%20App%20-%20Spring%20MVC%20and%20Hibernate%20Project%20-%20Part%203</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/31.%20Build%20a%20Database%20Web%20App%20-%20Spring%20MVC%20and%20Hibernate%20Project%20-%20Part%204</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/32.%20Build%20a%20Database%20Web%20App%20-%20Spring%20MVC%20and%20Hibernate%20Project%20-%20Part%205</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/33.%20Build%20a%20Database%20Web%20App%20-%20Spring%20MVC%20and%20Hibernate%20Project%20-%20Part%206</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/34.%20AOP%20Aspect-Oriented%20Programming%20Overview</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/35.%20AOP%20@Before%20Advice%20Type</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/36.%20AOP%20Pointcut%20Expressions%20-%20Match%20Methods%20and%20Return%20Types</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/37.%20AOP%20Pointcut%20Expressions%20-%20Match%20Method%20Parameter%20Types</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///R:/DevSchool/uDemy/Languages/Java/careerdevs/Spring%20&amp;%20Hibernate%20for%20Beginners%20(includes%20Spring%20Boot)/38.%20AOP%20Pointcut%20Declarations</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+	</extension>
+</playlist>
