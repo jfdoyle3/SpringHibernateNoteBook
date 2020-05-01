@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
 <body>
-	<h2>Spring MVC example - Home Page</h2>
+	<h2>Spring MVC Form example - Home Page</h2>
 	<hr>
-	<a href="form/showForm">Form example</a>
+	<a href="form/showForm">Simple</a>
 	<br>
-	<a href="student/showForm">Student enrollment form</a>
+	<a href="student/showForm">Student enrollment</a>
+	<br>
+	<a href="customer/showForm">Customer Registration</a>
 </body>
 </html>

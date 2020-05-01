@@ -1,4 +1,4 @@
-<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="os" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,9 +13,9 @@
 	<br>
 	Operating Systems:
 	<ul>
-		<c:forEach var="temp" items="${student.operatingSystems}">
+		<os:forEach var="temp" items="${student.operatingSystems}">
 		<li>${temp}</li>
-		</c:forEach>
+		</os:forEach>
 	</ul>
 </body>
 </html>
