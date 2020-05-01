@@ -8,5 +8,6 @@
 <body>
 The customer is registered: ${customer.firstName} ${customer.lastName}
 <br>
+Free Passes: ${customer.freePasses}
 </body>
 </html>
