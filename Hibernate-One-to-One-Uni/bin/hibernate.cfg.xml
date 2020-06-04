@@ -9,7 +9,7 @@
 		<!-- in using any packages -->
         <!-- JDBC Database connection settings -->
         <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
-        <property name="connection.url">jdbc:mysql://192.168.1.201:3306/hb_student_tracker?useSSL=false</property>
+        <property name="connection.url">jdbc:mysql://192.168.1.201:3306/hb-01-one-to-one-uni?useSSL=false</property>
         <property name="connection.username">jfdoyle3</property>
         <property name="connection.password">F1ipp3r6467</property>
 
