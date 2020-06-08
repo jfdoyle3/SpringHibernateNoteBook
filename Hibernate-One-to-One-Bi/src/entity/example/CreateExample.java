@@ -9,7 +9,7 @@ import entity.InstructorDetail;
 
 
 
-public class CreatetExample {
+public class CreateExample {
 
 	public static void main(String[] args) {
 
@@ -25,10 +25,10 @@ public class CreatetExample {
 		try {
 			
 			// create the objects
-			//Instructor tempInstructor= new Instructor("Doyle","Jim","jdoyle@school.edu");
-			//InstructorDetail tempInstructorDetail=new InstructorDetail("MyYouTube Channel","coding");
-			Instructor tempInstructor= new Instructor("Smith","Sam","ssmith@school.edu");
-			InstructorDetail tempInstructorDetail=new InstructorDetail("http://www.youtube.com","hiking");
+			Instructor tempInstructor= new Instructor("Doyle","Jim","jdoyle@school.edu");
+			InstructorDetail tempInstructorDetail=new InstructorDetail("MyYouTube Channel","coding");
+			//Instructor tempInstructor= new Instructor("Smith","Sam","ssmith@school.edu");
+			//InstructorDetail tempInstructorDetail=new InstructorDetail("http://www.youtube.com","hiking");
 			
 			// associate the objects
 			tempInstructor.setInstructorDetail(tempInstructorDetail);
