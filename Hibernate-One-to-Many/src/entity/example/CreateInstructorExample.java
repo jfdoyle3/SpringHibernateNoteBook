@@ -27,10 +27,10 @@ public class CreateInstructorExample {
 		try {
 			
 			// create the objects
-			Instructor tempInstructor= new Instructor("Doyle","Jim","jdoyle@school.edu");
-			InstructorDetail tempInstructorDetail=new InstructorDetail("MyYouTube Channel","coding");
-			//Instructor tempInstructor= new Instructor("Smith","Sam","ssmith@school.edu");
-			//InstructorDetail tempInstructorDetail=new InstructorDetail("http://www.youtube.com","hiking");
+			Instructor tempInstructor= new Instructor("Jim","Doyle","jdoyle@careerdevs.com");
+			InstructorDetail tempInstructorDetail=new InstructorDetail("https://www.youtube.com","Coding");
+			//Instructor tempInstructor= new Instructor("Sasha","Smith","ssmith@careerdevs.com");
+			//InstructorDetail tempInstructorDetail=new InstructorDetail("http://www.youtube.com","Video Games");
 			
 			// associate the objects
 			tempInstructor.setInstructorDetail(tempInstructorDetail);
@@ -52,6 +52,7 @@ public class CreateInstructorExample {
 			System.out.println("Done!");
 			
 		} finally {
+			session.close();
 			factory.close();
 		}
 	}
