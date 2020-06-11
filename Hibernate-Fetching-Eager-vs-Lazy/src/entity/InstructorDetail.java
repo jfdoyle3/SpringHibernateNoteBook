@@ -10,36 +10,43 @@ import javax.persistence.OneToOne;
 import javax.persistence.Table;
 
 @Entity
-@Table(name="instructor_detail")
+@Table(name = "instructor_detail")
 public class InstructorDetail {
-	
-	
-	//annotate the class as an entity and map to db table
-	
+
+	// annotate the class as an entity and map to db table
+
 	// define the fields
-	
+
 	// annotate the field with db column names
-	
+
 	// create constructors
-	
+
 	// generate getter/setter methods
-	
+
 	// generate toString() method
-	
+
 	@Id
-	@GeneratedValue(strategy=GenerationType.IDENTITY)
-	@Column(name="id")
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@Column(name = "id")
 	private int id;
-	
-	@Column(name="youtube_channel")
+
+	@Column(name = "youtube_channel")
 	private String youtubeChannel;
-	
-	@Column(name="hobby")
+
+	@Column(name = "hobby")
 	private String hobby;
 
- S
+	// add new field for instructor (also add getter/setters)
+	// add @OneToOne annotation
+	// @OneToOne(mappedBy = "instructorDetail", cascade =  CascadeType.ALL)
+	
+	// delete InstructorDetail info while keeping the Instructor info intact.
+	@OneToOne(mappedBy = "instructorDetail", cascade = { CascadeType.DETACH, CascadeType.MERGE, CascadeType.PERSIST,
+			CascadeType.REFRESH })
+	private Instructor instructor;
+
 	public InstructorDetail() {
-		
+
 	}
 
 	public InstructorDetail(String youtubeChannel, String hobby) {
@@ -70,7 +77,14 @@ public class InstructorDetail {
 	public void setHobby(String hobby) {
 		this.hobby = hobby;
 	}
-	
+
+	public Instructor getInstructor() {
+		return instructor;
+	}
+
+	public void setInstructor(Instructor instructor) {
+		this.instructor = instructor;
+	}
 
 	@Override
 	public String toString() {
@@ -78,4 +92,3 @@ public class InstructorDetail {
 	}
 
 }
-

@@ -53,3 +53,18 @@ Web sites that helped:
 https://www.pegaxchange.com/2018/01/24/java-web-project-with-spring-framework/
 
 https://www.ntu.edu.sg/home/ehchua/programming/howto/Tomcat_HowTo.html
+
+
+
+## Fetching Type Defaults
+
+| Mapping     | Default Fetch Type |
+| ----------- | ------------------ |
+| @OneToOne   | FetchType.EAGER    |
+| @OneToMany  | FetchType.LAZY     |
+| @ManyToOne  | FetchType.EAGER    |
+| @ManyToMany | FetchType.LAZY     |
+
+Overriding Default Fetch Type:
+
+@ManyToOne (fetch=FetchType.LAZY)
