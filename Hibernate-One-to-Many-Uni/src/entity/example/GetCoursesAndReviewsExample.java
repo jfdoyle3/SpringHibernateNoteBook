@@ -9,7 +9,7 @@ import entity.Instructor;
 import entity.InstructorDetail;
 import entity.Review;
 
-public class CreateCoursesAndReviewsExample {
+public class GetCoursesAndReviewsExample {
 
 	public static void main(String[] args) {
 
@@ -25,20 +25,16 @@ public class CreateCoursesAndReviewsExample {
 			// start a transaction
 			session.beginTransaction();
 			
-			// create a course
-			Course tempCourse= new Course("Learn Java coding");
+			// get the course
+			int  theId=10;
+			Course tempCourse=session.get(Course.class, theId);
 			
-			// add some reviews
-			tempCourse.addReview(new Review("Great Course ... Love it!"));
-			tempCourse.addReview(new Review("Excellent Course, I enjoyed it"));
-			tempCourse.addReview(new Review("To Simple, Doesn't cover enough material"));
-			
-			// save the course .. and leverage the cascade all.
-			System.out.println("Saving the course");
+			// print the course
 			System.out.println(tempCourse);
-			System.out.println(tempCourse.getReviews());
-			session.save(tempCourse);
 			
+			// print the course reviews
+			System.out.println(tempCourse.getReviews());
+
 			// commit transaction
 			session.getTransaction().commit();
 			System.out.println("Done!");
